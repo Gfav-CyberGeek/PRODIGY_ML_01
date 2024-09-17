@@ -62,7 +62,7 @@ To get started with this project, clone the repository and install the necessary
 
 2. Run the Python script:
    ```bash
-   python house_price_prediction.py
+   python model.py
    ```
 
 3. The script will output the model's performance, including metrics such as Mean Squared Error (MSE) and R-squared (R²). Additionally, a scatter plot of actual vs predicted house prices will be displayed.
